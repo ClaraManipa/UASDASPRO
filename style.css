@@ -109,9 +109,9 @@ nav {
   top: 10%;
   left: 10%;
   font-size: 60px;
-  font-weight: 300;
+  font-weight: 900;
   text-align: center;
-  color: white;
+  color: red;
   border: 1px solid gray;
   z-index: 1;
 }
